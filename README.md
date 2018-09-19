@@ -74,6 +74,6 @@ The `<title>` element is metadata that represents the title of the overall HTML 
 
 14. (1) Header, (2) navigation bar, (3) main content, (4) sidebar, (5) footer.
 
-15. Sometimes you'll come across a situation where you can't find an ideal semantic element to group some items together or wrap some content. Sometimes you might want to just group a set of elements together to affect them all as a single entity with some CSS or JavaScript. For cases like these, HTML provides the <div> and <span> elements. You should use these preferably with a suitable class attribute, to provide some kind of label for them so they can be easily targeted.
+15. Sometimes you'll come across a situation where you can't find an ideal semantic element to group some items together or wrap some content. Sometimes you might want to just group a set of elements together to affect them all as a single entity with some CSS or JavaScript. For cases like these, HTML provides the `<div>` and `<span>` elements. You should use these preferably with a suitable class attribute, to provide some kind of label for them so they can be easily targeted.
 
 **Copyright &copy; 2018 Riyaad Azad. Free to copy and distribute as per the [official license on GitHub](https://github.com/ra-coding-club/coding-club/blob/master/LICENSE). All other rights reserved.** 
