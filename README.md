@@ -74,3 +74,5 @@ Example Answer: *head*
 14. 
 
 15. 
+
+**Copyright &copy; 2018 Riyaad Azad. Free to copy and distribute as per the [official license on GitHub](https://github.com/ra-coding-club/coding-club/blob/master/LICENSE). All other rights reserved.** 
